@@ -1,0 +1,16 @@
+Algorithmecomparaison
+
+Var :
+ a,b : reel;
+ Debut
+    Afficher "Veuillez entrer un reel";
+  Saisir a;
+    Afficher "Veuillez entrer un reel";
+  Saisir b;
+  Si a>b alors 
+    Afficher a; "est le plus grand"
+  Sinon
+    Afficher b; "est le plus grand"
+    
+ Finsi
+Fin
