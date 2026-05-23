@@ -1,0 +1,16 @@
+Algorithmecomparaison;
+
+Var: 	age,annee: entrer;
+	a,b: entrer;
+		
+
+ Debut
+ 
+  Afficher"Veuillez entrer votre annee de naissance";
+   Saisir a;
+   b<-2026-a;
+  Si b<10 alors
+  Afficher"Vous aviez moins de 10 ans"
+ Fin si
+Fin
+ 
